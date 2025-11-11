@@ -117,9 +117,8 @@ OSI_Model_Simulator/
 
 | Name        | Role                                  | GitHub                  |
 |-------------|---------------------------------------|-------------------------|
-| Daksh Goel  | Project Lead — UI & Sender logic      | (add your link)         |
-| Rachit Yadav| Receiver logic, CRC & testing         | RachitYadavHsr          |
-| [Third]     | Documentation & Presentation          | (add name/link)         |
+| Daksh Goel  | Project Lead — UI & Sender logic      | [https://github.com/Macqueen-95]         |
+| Rachit Yadav| Receiver logic, CRC & testing         | [https://github.com/RachitYadavHsr]          |
 
 ---
 
